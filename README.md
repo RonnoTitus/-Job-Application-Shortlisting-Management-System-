@@ -6,7 +6,7 @@
 # 🏛️ Kapchorwa District Local Government Job Portal
 
 A modern, full-featured **Job Application Management System** built with **React + TypeScript + Redux Toolkit + Vite** for the Kapchorwa District Local Government.  
-This platform streamlines the process of **advertising jobs, applying online, tracking applications, and managing shortlisting and reports** — for both **citizens** and **administrators**.
+This platform streamlines the process of **advertising jobs, applying online, tracking applications, and managing shortlisting and reports** for both **citizens** and **administrators**.
 
 ---
 
@@ -21,7 +21,7 @@ This platform streamlines the process of **advertising jobs, applying online, tr
 ### 🧑‍💻 For Administrators
 - **Post new job openings** with rich details (title, department, qualifications, responsibilities, deadlines).
 - **Edit or delete job postings** directly from the dashboard.
-- **Manage applications** — view, shortlist, or reject candidates.
+- **Manage applications** view, shortlist, or reject candidates.
 - Generate **reports and application summaries**.
 - Track application statistics visually (Pending Review, Shortlisted, Rejected).
 
@@ -46,5 +46,4 @@ This platform streamlines the process of **advertising jobs, applying online, tr
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/
-cd 
+git clone https://github.com/RonnoTitus/-Job-Application-Shortlisting-Management-System-.git
